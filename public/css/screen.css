@@ -1,0 +1,40 @@
+body {
+	background: #3298ef;
+}
+
+#cont{
+	width: 80%;
+	margin:0 auto;
+}
+.row.info > div, .row.title > div {
+	background: #fff;
+	border: 10px solid  #3298ef;
+	border-radius: 40px;
+	height: 150px;
+	padding: 10px;
+}
+
+
+
+#header img{
+	float: left;
+	margin-left: 10%;
+	    margin-top: 25px;
+}
+#header h1 {
+	margin-right: 10%;
+	font-size: 50px;
+	    margin-top: 25px;
+	float: right;
+}
+
+.info {	
+	text-align:center;
+	font-size: 80px;
+}
+
+.title {
+	text-align:center;
+	font-size: 80px;
+}
+
